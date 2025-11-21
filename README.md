@@ -17,4 +17,4 @@ A Java-based console application designed to manage library operations such as b
 ## Steps to Install & Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/PranjalGupta-05/Vityarthi-Library-System.git](https://github.com/PranjalGupta-05/Vityarthi-Library-System.git)
+   git clone [https://github.com/PranjalGupta-05/Library_Project_Final.git](https://github.com/PranjalGupta-05/Library_Project_Final.git)
